@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Greenhouse Junimos",
+  "Author": "yamaji",
+  "Version": "1.0.0",
+  "Description": "Allows Junimos to work in Greenhouses.",
+  "UniqueID": "yamaji.GreenhouseJunimos",
+  "EntryDll": "GreenhouseJunimos.dll",
+  "UpdateKeys": [ "Nexus:???" ]
+}
